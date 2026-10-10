@@ -56,4 +56,4 @@ Java 25를 설치하고 프로젝트 폴더에서 `gradlew.bat build`를 실행�
 
 기반 엔진: [19MisterX98/SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX), tag `2.16.1`, commit `b72a829f768967fa737a4f1f63b32e37b9619152`.
 
-MIT 라이선스와 기존 저작권 고지는 `LICENSE`에 보존되어 있습니다. 이 배포본은 별도로 수정한 버전입니다.
+MIT 라이선스와 기존 저작권 고지는 `LICENSE`에 보존되어 있습니다. 이 배포본은 별도로 수정한 버전입니다.SeedCrackerX 기반 수정 버전
